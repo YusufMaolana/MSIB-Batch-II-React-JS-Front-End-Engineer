@@ -45,4 +45,4 @@ Seperti Contoh Project yang saya kerjakan ini bisa di lihat dalam link di bawah 
 
 Adapun untuk hasil nya adalah seperti dibawah ini :
 
-><img src=".\screenshots\Tugas_Pratikum-Figma.png">
+><img src=".\screenshots\Tugas_Pratikum-Figma_1.png">
