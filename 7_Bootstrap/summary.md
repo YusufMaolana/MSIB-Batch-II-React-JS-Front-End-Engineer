@@ -46,4 +46,4 @@ Apa itu Bootstrap? Bootstrap adalah sebuah framework yang dimana pertama kali di
 
 #
 * Note code program bisa dilihat disini :
->
+>https://github.com/YusufMaolana/react_yusuf_maolana/tree/master/7_Bootstrap/pratikum/Code%20Program
