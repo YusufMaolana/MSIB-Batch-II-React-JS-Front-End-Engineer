@@ -1,0 +1,20 @@
+.tombol{
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+  display: block;
+  margin-top: 5px;
+  margin-left: 20px;
+  background-color: white;
+}
+
+.tombol-coret{
+  margin-left: 20px;
+  margin-top: 5px;
+  display: block;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+  text-decoration: line-through;
+  background-color: white;
+}
