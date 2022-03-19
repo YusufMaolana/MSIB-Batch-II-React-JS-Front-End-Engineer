@@ -137,7 +137,3 @@ serviceWorker.unregister();`
 
 d. Setelah semua selesai dan di save lihatlah browser yang telah dibuka dengan alamat http://localhost:3000.
 
-#
-#### Berikut contoh adalah sebuah project web sederhana menggunakan React Js & React Router :
-
-><img src=".\screenshots\">
