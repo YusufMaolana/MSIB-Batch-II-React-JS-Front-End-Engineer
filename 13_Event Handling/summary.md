@@ -34,10 +34,6 @@ Sedangkan Stateful Component adalah component yang memiliki state internal sendi
 )
 4. Generic Events (OnError,OnLoad)
 
-
-
-## Essay.
-
 #
 #### Berikut adalah hasil pratikum pada materi Even Handling :
 
