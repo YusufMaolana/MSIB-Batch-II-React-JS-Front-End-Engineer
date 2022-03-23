@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import ThisTodos from './componets/ThisTodos';
+import Todos from './componets/Todos';
+
 function App() {
   return (
-  <ThisTodos/>
+    <Todos/>
   );
 }
 
