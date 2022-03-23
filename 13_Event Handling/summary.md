@@ -39,4 +39,10 @@ Sedangkan Stateful Component adalah component yang memiliki state internal sendi
 ## Essay.
 
 #
-#### Berikut contoh Project Tugas React Yang Menggunakan Event Handling:
+#### Berikut adalah hasil pratikum pada materi Even Handling :
+
+><img src=".\screenshots\Tgs-Event_Handling(1).png">
+<br></br>
+
+#### Untuk Link Code Program Bisa Di Akses Pada Link Ini :
+>https://github.com/YusufMaolana/react_yusuf_maolana/tree/master/13_Event%20Handling/pratikum/code_program
