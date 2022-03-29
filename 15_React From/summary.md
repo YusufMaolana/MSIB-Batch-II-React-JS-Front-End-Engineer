@@ -27,7 +27,7 @@ dalam controlled componet ketika kita membutuhkan penanganan pada banyak elemen 
 Uncontrolled Commpent adalah sebuah alternatif componet. yang dimana nantinya sebuah data from akan ditangani oleh DOM-nya sendiri. Dalam penulisan sebuah Uncontrolled Componet alih-alih kitameulis sebuah event handler untuk setiap pembaruan state, kita bisa menggunakan ref untuk mendapatkn nilai form dari DOM.
 <br> Karena hali ini terkadang membuat lebih mudah untuk mengintregasikan kode react dan no-react jika kita menggunakan uncontrolled componet ini menjadi kode lebih cepat walaupun nantinya membuat tidak rapi.
 
-### Berikut adalah hasil pratikum pada materi React Hook:
+### Berikut Adalah Hasil Pratikum Pada Materi React Form :
 * Data Di Input Dan Tampil Di Console Log
 ><img src=".\screenshots\Tgs-React_From(1).png">
 <br></br>
@@ -53,4 +53,4 @@ Uncontrolled Commpent adalah sebuah alternatif componet. yang dimana nantinya se
 <br></br>
 
 ### Untuk Link Code Program Bisa Di Akses Pada Link Ini :
->
+>https://github.com/YusufMaolana/react_yusuf_maolana/tree/master/15_React%20From/pratikum/code_program
