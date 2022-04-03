@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 2 rem;
+  background-color: rgb(13, 110, 253);
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.text {
+  text-align: justify;
+}
