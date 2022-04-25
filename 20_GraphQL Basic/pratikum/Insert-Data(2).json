@@ -1,0 +1,13 @@
+{
+  "query": "mutation InsertData($object: keterangan_insert_input!) {\n  insert_keterangan_one(object: $object) {\n    id\n    id_anggota\n    nilai\n    pelajaran\n    status\n  }\n}\n",
+  "variables": {
+    "object": {
+      "id": 6,
+      "id_anggota": 3,
+      "nilai": 55,
+      "pelajaran": "React",
+      "status": false
+    }
+  },
+  "operationName": "InsertData"
+}

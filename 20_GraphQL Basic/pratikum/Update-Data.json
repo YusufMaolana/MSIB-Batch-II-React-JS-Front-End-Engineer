@@ -1,0 +1,5 @@
+{
+  "query": "mutation UpdateData {\n  update_keterangan(where: {status: {_eq: false}}, _set: {status: true}) {\n    returning {\n      status\n    }\n  }\n}\n",
+  "variables": null,
+  "operationName": "UpdateData"
+}

@@ -1,0 +1,5 @@
+{
+  "query": "query SiswaStatusTrue {\n  anggota_aggregate(where: {keterangans: {status: {_eq: true}}}) {\n    nodes {\n      nama\n      id\n    }\n  }\n}\n",
+  "variables": null,
+  "operationName": "SiswaStatusTrue"
+}
